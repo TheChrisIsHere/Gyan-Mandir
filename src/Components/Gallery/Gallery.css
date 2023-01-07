@@ -1,0 +1,6 @@
+.section-heading{
+    color: var(--bs-orange);
+}
+.gallery .carousel-item{
+    height: 250px!important;
+}
